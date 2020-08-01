@@ -1,5 +1,5 @@
 # RAD-seq
-Restriction‐site Associated DNA sequencing (RAD-seq): scripts to find genetic variants in non-model species
+Restriction‐site Associated DNA sequencing (RAD-seq): scripts to find genetic variants in non-model fish species
 
 This is a cookbook for analyzing RAD-seq raw reads, produced by Illumina, in order to characterize SNPs and INDELs. 
 Here the species are two fish, Pollack (Pollachius pollachius, code PPOL) and Red Mullet (Mullus surmuletus, code MSUR).
